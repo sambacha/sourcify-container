@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+sourcify-snapshot.tar.bz2
+*.tar.bz2
+*.key
+*.env
